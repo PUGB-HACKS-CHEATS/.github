@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="http://pugb-hacks-cheats.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_PUBG_BATTLEGROUNDS-232F3E?style=for-the-badge&logo=windows&logoColor=white" alt="Get PUBG: Battlegrounds">
+    <img src="https://img.shields.io/badge/Get_PUBG_BATTLEGROUNDS_HACK-232F3E?style=for-the-badge&logo=windows&logoColor=white" alt="Get PUBG: Battlegrounds">
   </a>
 </p>
 
