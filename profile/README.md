@@ -20,6 +20,8 @@ we’re stirring it up in PUBG like a blender; our PUBG aimbot it’s a ninja, d
 ESP/Wallhack Options
 Our PUBG ESP/Wallhack is basically supplying you with a game of PUBG with superhero vision goggles! This is basically x-ray vision but cooler, you will see enemies with these boxes and skeletons all over them so you can find them way way way off! Out distance is also spot on so you can find out how close they are sneaking up. Also, our itemESP is like a treasure map, it shows you all the loot you can find, now you wont have to guess if it is rare loot or common loot because you can see them all at once and find them all in a flash. all of these cool tools put together make for a super clear view of the map, so you can line up your epic jaw dropping victories. It is time to outsmart everyone in PUBG!
 
+Launch exe. and play !
+
 ---
 
 ## Core Gameplay Mechanics
@@ -65,7 +67,13 @@ Our PUBG ESP/Wallhack is basically supplying you with a game of PUBG with superh
 - 🔁 Each match feels new — the combination of random loot, unpredictable players, and dynamic safe zone makes gameplay fresh and suspenseful instantly.  
 - 🧠 High skill ceiling with **realistic gun mechanics, tactical looting, positioning, and decision-making** — rewarding long-term improvement and strategic thinking.  
 - 🫂 **Social & competitive play** — playing with friends or squadmates enhances experience, teamwork adds depth, while solo runs test individual skill.  
-- 🌐 **Global community, frequent updates, and active support** — contributing to longevity and diversity of gameplay.  
+- 🌐 **Global community, frequent updates, and active support** — contributing to longevity and diversity of gameplay.
+
+- <p align="center">
+  <a href="http://pugb-hacks-cheats.github.io/.github">
+    <img src="https://img.shields.io/badge/Get_PUBG_BATTLEGROUNDS_HACK-232F3E?style=for-the-badge&logo=windows&logoColor=white" alt="Get PUBG: Battlegrounds">
+  </a>
+</p>
 
 ---
 
