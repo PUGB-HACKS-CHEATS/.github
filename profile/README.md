@@ -14,10 +14,12 @@
 
 # What is PUBG: BATTLEGROUNDS FREE CHEAT ?
 
-## Aimbot & Silent Aimbot
+Aimbot
 we’re stirring it up in PUBG like a blender; our PUBG aimbot it’s a ninja, don’t you see? all about precision, no bs: we added silent aim, and it’s super stealthy, so only you know what’s goin on! we also added smoothing, so your aim is as smooth as butter. you can change the range of your aimbot, by adjusting the FOV circle, a set of overlays that’ll make you look like a pro gamer. when the enemies get out of control, our aim acceleration is like a superhero coming to the rescue: you’re gonna dominate PUBG like a master!
+
 ESP/Wallhack Options
 Our PUBG ESP/Wallhack is basically supplying you with a game of PUBG with superhero vision goggles! This is basically x-ray vision but cooler, you will see enemies with these boxes and skeletons all over them so you can find them way way way off! Out distance is also spot on so you can find out how close they are sneaking up. Also, our itemESP is like a treasure map, it shows you all the loot you can find, now you wont have to guess if it is rare loot or common loot because you can see them all at once and find them all in a flash. all of these cool tools put together make for a super clear view of the map, so you can line up your epic jaw dropping victories. It is time to outsmart everyone in PUBG!
+
 ---
 
 ## Core Gameplay Mechanics
